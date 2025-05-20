@@ -1,5 +1,5 @@
 
-                               # Hi 👋, I'm Shreelakshmi D Manjunatha
+*# Hi 👋, I'm Shreelakshmi D Manjunatha*
 
 **MS Data Science ’25 | Illinois Tech | Ex-TCS | Aspiring Data Engineer focused on generating insights and reports**
 
@@ -9,7 +9,7 @@
 
 I'm a Information Technology graduate student at **Illinois Institute of Technology (’25)**, with 3+ years of experience as a Senior Analyst at **Tata Consultancy Services (TCS)**. I’ve worked on large-scale **ETL automation**, **data integration**, and **cloud-native data systems**. I'm passionate about building **scalable data infrastructure** and applying **machine learning and AI** to solve real-world challenges.
 
-Currently upskilling in cloud-native platforms and contributing to projects that focus on performance optimization and data-driven solutions in the AWS.
+Currently upskilling in cloud-native platforms and contributing to projects that focus on performance optimization and data-driven solutions on AWS.
 
 ---
 
@@ -68,9 +68,14 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 
 ## 📚 Academic Projects
 
-- 💡 **Fraud Detection Model** – Built with Logistic Regression, KNN, and Random Forest to flag suspicious activities.
-- 📊 **Library Web App** – Full-stack system for borrowing/returning books with 30% reduction in manual traffic.
-- 🔁 **Pentaho ETL Pipeline** – Automated data cleaning and loading
+- 🔍 **Fraud Detection using Machine Learning**  
+  Designed a classification model using **Logistic Regression, KNN, and Random Forest** to detect and flag potentially fraudulent transactions for review.
+
+- 🔄 **ETL Pipeline with Pentaho & PostgreSQL**  
+  Developed a full ETL pipeline to extract data from flat files and databases, cleanse, transform, and load into a **PostgreSQL** data warehouse for **business intelligence** and analysis.
+
+- 📈 **E-commerce Analytics Dashboard**  
+  Performed ETL using Python for dataset preparation. Created **interactive Power BI dashboards** to forecast and visualize KPIs by **genre, release year, content type,** and **regional availability**.
 
 ## 📫 Connect with Me
 

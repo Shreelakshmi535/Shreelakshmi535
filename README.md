@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Shreelakshmi D Manjunatha
+                               # Hi 👋, I'm Shreelakshmi D Manjunatha
 
 **MS Data Science ’25 | Illinois Tech | Ex-TCS | Aspiring Data Engineer focused on generating insights and reports**
 
@@ -71,3 +71,9 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 - 💡 **Fraud Detection Model** – Built with Logistic Regression, KNN, and Random Forest to flag suspicious activities.
 - 📊 **Library Web App** – Full-stack system for borrowing/returning books with 30% reduction in manual traffic.
 - 🔁 **Pentaho ETL Pipeline** – Automated data cleaning and loading
+
+## 📫 Connect with Me
+
+- 📧 **Email**: [shreelakshmidm18@gmail.com](mailto:shreelakshmidm18@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/shreelakshmidm](https://www.linkedin.com/in/shreelakshmidm)
+

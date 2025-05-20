@@ -20,7 +20,7 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 #### 📍 Project: Randstad | Nov 2022 – Mar 2024 | India
 - Managed enterprise databases using **MS SQL Server**, ensuring data integrity, security, and performance. Improved database reliability by **30%** by implementing system updates, configurations, and sensitive data protections. Boosted application speed and data security through performance optimization and Splunk-monitored backup processes. Reduced incident resolution time by **20%** through proactive issue diagnosis, patching, and system migrations. Used **Splunk dashboards** to monitor real-time server performance and stability.
 
-#### 📍 Project: SCB | Nov 2020 – Oct 2023 | India
+#### 📍 Project: SCB | Nov 2021 – Oct 2022 | India
 - Designed and maintained scalable **ETL/ELT pipelines** using **BigQuery, Teradata, Airflow, Spark**, and **Google Cloud Composer/DataProc**. Processed **1TB+ of data daily** across multiple business domains, ensuring reliable and efficient ingestion workflows. Reduced SQL and Python script execution time by **60%**, increasing data transformation efficiency by **40%**. Implemented automated CI/CD pipelines using **Cloud Build** and **GitHub Actions**, cutting deployment time by **50%**. Led **data governance** and performance tuning, decreasing pipeline failures by **35%** and improving cross-team data reliability.
 
 ---

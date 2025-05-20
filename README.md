@@ -9,7 +9,7 @@
 
 I'm a Information Technology graduate student at **Illinois Institute of Technology (’25)**, with 3+ years of experience as a Senior Analyst at **Tata Consultancy Services (TCS)**. I’ve worked on large-scale **ETL automation**, **data integration**, and **cloud-native data systems**. I'm passionate about building **scalable data infrastructure** and applying **machine learning and AI** to solve real-world challenges.
 
-Currently upskilling in cloud-native platforms and contributing to projects that focus on performance optimization and data-driven solutions in the AWS and GCP ecosystems.
+Currently upskilling in cloud-native platforms and contributing to projects that focus on performance optimization and data-driven solutions in the AWS.
 
 ---
 
@@ -17,12 +17,15 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 
 ### 🔹 Tata Consultancy Services (TCS)
 **Senior Analyst**  
-📍 India | Nov 2021 – Mar 2024
-
-- Built and maintained high-volume **ETL/ELT pipelines** using AWS Glue, Teradata, Airflow, Spark.
-- Reduced query time by **60%** and boosted data pipeline efficiency by **40%** with SQL and Python optimizations.
-- Designed **CI/CD workflows** using Cloud Build and GitHub Actions, improving deployment speed by **50%**.
-- Enhanced data reliability across **5+ cross-functional teams** by leading governance and performance tuning initiatives.
+*Project: Randstad*	NOV 2022 – MAR 2024, India
+●	Managed enterprise databases with MSSQL to ensure data integrity, security, and performance by installing, configuring, and maintaining systems. This resulted in a 30% increase in database reliability, Protection of sensitive data and support for critical business operations.
+●	Optimized database performance and streamlined backup processes, monitored through Splunk boosting application speed, reliability, and data security. These improvements reduced downtime, improved data retrieval speeds and created a stable system that facilitated efficient development.
+●	Diagnosed and resolved database issues proactively, applied updates and patches, and conducted migrations and upgrades with minimal downtime, resulting in a 20% decrease in incident resolution time and maintaining a secure, high-performing, and up-to- date database environment. Monitored performance of servers through Splunk dashboard.
+*Project: SCB*   NOV 2020 – OCT 2023, India
+●	Developed and maintained scalable ETL/ELT pipelines using BigQuery, Teradata, Airflow, Spark, and GCP (Composer, DataProc), processing over 1TB+ of data daily across multiple business domains.
+●	Optimized complex SQL and Python scripts for transformation and automation, reducing query execution time by 60% and increasing data processing efficiency by 40%.
+●	Implemented CI/CD workflows using Cloud Build and GitHub Actions, resulting in a 50% reduction in deployment time and improved version control across teams.
+●	Led performance tuning and data governance initiatives, decreasing pipeline failures by 35% and improving data reliability across 5+ cross-functional teams.
 
 ---
 

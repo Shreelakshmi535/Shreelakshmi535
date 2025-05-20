@@ -1,5 +1,5 @@
 
-*# Hi 👋, I'm Shreelakshmi D Manjunatha*
+# 👋 Hi, I'm Shreelakshmi D Manjunatha
 
 **MS Data Science ’25 | Illinois Tech | Ex-TCS | Aspiring Data Engineer focused on generating insights and reports**
 

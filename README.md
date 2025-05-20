@@ -15,10 +15,6 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 
 ## 💼 Work Experience
 
-### 🔹 Tata Consultancy Services (TCS)
-**Senior Analyst**  
-## 💼 Work Experience
-
 ### 👨‍💻 Senior Analyst — Tata Consultancy Services (TCS)
 
 #### 📍 Project: Randstad | Nov 2022 – Mar 2024 | India

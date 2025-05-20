@@ -17,15 +17,15 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 
 ### 🔹 Tata Consultancy Services (TCS)
 **Senior Analyst**  
-*Project: Randstad*	NOV 2022 – MAR 2024, India
-●	Managed enterprise databases with MSSQL to ensure data integrity, security, and performance by installing, configuring, and maintaining systems. This resulted in a 30% increase in database reliability, Protection of sensitive data and support for critical business operations.
-●	Optimized database performance and streamlined backup processes, monitored through Splunk boosting application speed, reliability, and data security. These improvements reduced downtime, improved data retrieval speeds and created a stable system that facilitated efficient development.
-●	Diagnosed and resolved database issues proactively, applied updates and patches, and conducted migrations and upgrades with minimal downtime, resulting in a 20% decrease in incident resolution time and maintaining a secure, high-performing, and up-to- date database environment. Monitored performance of servers through Splunk dashboard.
-*Project: SCB*   NOV 2020 – OCT 2023, India
-●	Developed and maintained scalable ETL/ELT pipelines using BigQuery, Teradata, Airflow, Spark, and GCP (Composer, DataProc), processing over 1TB+ of data daily across multiple business domains.
-●	Optimized complex SQL and Python scripts for transformation and automation, reducing query execution time by 60% and increasing data processing efficiency by 40%.
-●	Implemented CI/CD workflows using Cloud Build and GitHub Actions, resulting in a 50% reduction in deployment time and improved version control across teams.
-●	Led performance tuning and data governance initiatives, decreasing pipeline failures by 35% and improving data reliability across 5+ cross-functional teams.
+## 💼 Work Experience
+
+### 👨‍💻 Senior Analyst — Tata Consultancy Services (TCS)
+
+#### 📍 Project: Randstad | Nov 2022 – Mar 2024 | India
+- Managed enterprise databases using **MS SQL Server**, ensuring data integrity, security, and performance. Improved database reliability by **30%** by implementing system updates, configurations, and sensitive data protections. Boosted application speed and data security through performance optimization and Splunk-monitored backup processes. Reduced incident resolution time by **20%** through proactive issue diagnosis, patching, and system migrations. Used **Splunk dashboards** to monitor real-time server performance and stability.
+
+#### 📍 Project: SCB | Nov 2020 – Oct 2023 | India
+- Designed and maintained scalable **ETL/ELT pipelines** using **BigQuery, Teradata, Airflow, Spark**, and **Google Cloud Composer/DataProc**. Processed **1TB+ of data daily** across multiple business domains, ensuring reliable and efficient ingestion workflows. Reduced SQL and Python script execution time by **60%**, increasing data transformation efficiency by **40%**. Implemented automated CI/CD pipelines using **Cloud Build** and **GitHub Actions**, cutting deployment time by **50%**. Led **data governance** and performance tuning, decreasing pipeline failures by **35%** and improving cross-team data reliability.
 
 ---
 

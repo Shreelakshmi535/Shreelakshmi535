@@ -7,23 +7,43 @@
 
 ## 🧠 About Me
 
-I'm a Information Technology graduate student at **Illinois Institute of Technology (’25)**, with 3+ years of experience as a Senior Analyst at **Tata Consultancy Services (TCS)**. I’ve worked on large-scale **ETL automation**, **data integration**, and **cloud-native data systems**. I'm passionate about building **scalable data infrastructure** and applying **machine learning and AI** to solve real-world challenges.
-
-Currently upskilling in cloud-native platforms and contributing to projects that focus on performance optimization and data-driven solutions on AWS.
+Data Analyst with ~3 years across analytics and databases, specializing in SQL, Power BI (DAX, Power Query), Excel, and ETL (Power Query, Pentaho). Build KPI dashboards, automate data prep, and improve data quality to support operations decision making. Translate business questions into metrics, models, and reports; comfortable with AWS/Azure data ecosystems. 
 
 ---
 
 ## 💼 Work Experience
 
-### 👨‍💻 Senior Analyst — Tata Consultancy Services (TCS)
-
-#### 📍 Project: Randstad | Nov 2022 – Mar 2024 | India
-- Managed enterprise databases using **MS SQL Server**, ensuring data integrity, security, and performance. Improved database reliability by **30%** by implementing system updates, configurations, and sensitive data protections. Boosted application speed and data security through performance optimization and Splunk-monitored backup processes. Reduced incident resolution time by **20%** through proactive issue diagnosis, patching, and system migrations. Used **Splunk dashboards** to monitor real-time server performance and stability.
-
-#### 📍 Project: SCB | Nov 2021 – Oct 2022 | India
-- Designed and maintained scalable **ETL/ELT pipelines** using **BigQuery, Teradata, Airflow, Spark**, and **Google Cloud Composer/DataProc**. Processed **1TB+ of data daily** across multiple business domains, ensuring reliable and efficient ingestion workflows. Reduced SQL and Python script execution time by **60%**, increasing data transformation efficiency by **40%**. Implemented automated CI/CD pipelines using **Cloud Build** and **GitHub Actions**, cutting deployment time by **50%**. Led **data governance** and performance tuning, decreasing pipeline failures by **35%** and improving cross-team data reliability.
+Illinois Tech | Data Analyst (Graduate Assistant) | Chicago, IL, USA                                                                             May 2024 – Aug 2024
+•	Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
+•	Maintained Excel control trackers using PivotTables, XLOOKUP, and data validation to improve compliance and workflow visibility.
+•	Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
+•	Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
+Tata Consultancy Services Limited | Database Administrator | Bengaluru, India 	                                                Dec 2021 – Mar 2024
+•	Monitored database health daily and optimized performance (query tuning, index/stats refresh, wait analysis) to keep SLAs on track.
+•	Installed and configured SQL Server instances (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
+•	Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
+•	Operated and tested HA/DR with SQL Server Always On (HADR); documented RPO/RTO and ran periodic failover/DR drills.
+•	Maintained SOPs/runbooks; executed and verified backups, retention, and point-in-time restores.
+•	Managed capacity and disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
+•	Enforced access control (RBAC/least privilege) and maintained audit/audience logs. Monitored and worked tickets via Splunk and ServiceNow, triaging incidents and tracking SLAs to closure.
+•	Worked in Agile (Kanban/Scrum): daily stand-ups, change management/CAB reviews, and controlled maintenance windows.
+Verzeo | ML & Analytics Intern | India                                                                                                                                 Jul 2020 – Sep 2020
+•	Built supervised ML pipelines in Python (pandas, scikit-learn): cleaning and feature engineering (imputation, encoding, scaling), K-fold CV with Pipelines.
+•	Trained and compared models (linear/logistic regression, decision trees/random forests, SVM); reported MAE/MSE/R² or accuracy, precision/recall, F1, ROC-AUC; applied L1/L2 regularization and documented bias–variance trade-offs.
 
 ---
+
+ACADEMIC PROJECTS	
+Data Integration & ETL Pipeline – Pentaho PDI	                                                                                                          Jan 2025 – Mar 2025 
+•	Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, and de-duplication to deliver clean tables for reporting. 
+•	Built a sales star schema in Pentaho PDI (Fact Sales + Date, Product, Customer, Store/Region, Channel); created surrogate keys with Dimension Lookup/Update (SCD-2 where history mattered) and cleaned/standardized attributes using Value Mapper and Select Values.
+Streaming Content Analytics (Netflix-style) – Power BI                                                                                                  Jan 2025 – Mar 2025 
+•	Modeled a star schema and built Power BI dashboards with DAX measures and slicers for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
+•	Authored DAX measures (Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share) with time intelligence (YoY/QoQ/MTD via DATEADD); built drill-through from Region → Genre → Title and applied RLS by Region/Language for stakeholders.
+
+LEADERSHIP EXPERIENCE	
+•	Lead a team of 4–6 Academic Coaches, set schedules, run stand-ups and 1:1s, deliver training and QA. Drive data-informed student support, maintain progress trackers, flag risks, coordinate with faculty/staff, and personally coach priority cases to improve outcomes.
+•	Organized and led department-wide campus sports events end-to-end, planning, budgeting, logistics, volunteer coordination, and communications, ensuring high participation and on-time.
 
 ## 🏆 Achievements
 

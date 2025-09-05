@@ -13,22 +13,24 @@ Data Analyst with ~3 years across analytics and databases, specializing in SQL, 
 ## 💼 Work Experience
 ## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA | May 2024 – Aug 2024
 
-Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
-Maintained Excel control trackers using PivotTables, XLOOKUP, data validation to improve compliance and workflow visibility.
-Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
-Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
+- Built and published interactive **Power BI** dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
+- Maintained **Excel** control trackers using **PivotTables**, **XLOOKUP**, and **data validation** to improve compliance and workflow visibility.
+- Created lightweight **ETL** in **Power Query** to ingest/clean HR forms, standardize fields, and deduplicate records.
+- Coordinated with **HR** and students to collect/verify onboarding documents; organized records and authored **SOPs**.
+
 
 ##  Tata Consultancy Services (TCS) — Database Administrator | Bengaluru, India | Dec 2021 – Mar 2024
 
-Monitored database health daily and optimized performance (query tuning, index/statistics refresh, wait analysis) to keep SLAs on track.
-Installed & configured SQL Server (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
-Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
-Operated and tested HA/DR with SQL Server Always On (HADR); documented RPO/RTO and ran periodic failover/DR drills.
-Maintained SOPs/runbooks; executed and verified backups, retention, and point‑in‑time restores.
-Managed capacity & disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
-Enforced access control (RBAC/least privilege) and maintained audit logs.
-Worked tickets via Splunk and ServiceNow; triaged incidents and tracked SLAs to closure.
-Practiced Agile (Kanban/Scrum): daily stand‑ups, change management/CAB reviews, and controlled maintenance windows.
+- Monitored database health and optimized performance (query tuning, index/statistics refresh, wait analysis) to keep SLAs on track.
+- Installed & configured **SQL Server** (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, monitoring baselines.
+- Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
+- Operated and tested **HA/DR** with **SQL Server Always On (HADR)**; documented **RPO/RTO** and ran periodic failover/DR drills.
+- Maintained SOPs/runbooks; executed and verified backups, retention, and point-in-time restores.
+- Managed capacity and disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
+- Enforced access control (**RBAC/least privilege**) and maintained audit logs.
+- Worked tickets via **Splunk** and **ServiceNow**; triaged incidents and tracked SLAs to closure.
+- Practiced **Agile (Kanban/Scrum)**: daily stand-ups, change management/CAB reviews, and controlled maintenance windows.
+
 
 ## 🤖 Verzeo — ML & Analytics Intern | India | Jul 2020 – Sep 2020
 

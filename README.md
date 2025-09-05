@@ -11,7 +11,7 @@ Data Analyst with ~3 years across analytics and databases, specializing in SQL, 
 
 ---
 ## 💼 Work Experience
-## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA • May 2024 – Aug 2024
+## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA | May 2024 – Aug 2024
 
 Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
 Maintained Excel control trackers using PivotTables, XLOOKUP, data validation to improve compliance and workflow visibility.
@@ -46,19 +46,6 @@ Modeled a sales star schema (📊 FactSales + 🗓️ Date, 📦 Product, 👤 C
 Modeled a star schema and built Power BI dashboards with DAX for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
 Authored time‑intelligence measures (YoY/QoQ/MTD via DATEADD); built drill‑through (Region → Genre → Title) and applied RLS by Region/Language for stakeholders.
 
-🧰 Technical Toolbox
-
-Languages: Python, SQL, R
-
-Data / ML: pandas, NumPy, scikit‑learn, imbalanced‑learn (SMOTE), tidymodels/caret, ggplot2
-
-BI & Viz: Power BI (DAX, Power Query), Excel (PivotTables, XLOOKUP)
-
-ETL / DWH: Pentaho PDI (Kettle), star schema, SCD‑2, dimension/fact modeling
-
-Databases: SQL Server (install/config, perf tuning, Always On HADR, backups/restores)
-
-Ops & Tools: Git, ServiceNow, Splunk, Agile (Scrum/Kanban)
 
 ## 🏆 Achievements
 - 🥇 Designed impactful dashboards and reports during academic projects, earning a Best Project Award for promoting data-driven decision-making.

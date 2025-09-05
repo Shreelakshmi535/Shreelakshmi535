@@ -27,13 +27,10 @@ SQL • Python • Power BI • Pentaho PDI (Kettle) • ETL/ELT • Data Modeli
 
 Chicago, IL, USA • May 2024 – Aug 2024
 
-📊 Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
-
-🧮 Maintained Excel control trackers using PivotTables, XLOOKUP, data validation to improve compliance and workflow visibility.
-
-🔄 Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
-
-🤝 Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
+Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
+Maintained Excel control trackers using PivotTables, XLOOKUP, data validation to improve compliance and workflow visibility.
+Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
+Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
 
 🗄️ Tata Consultancy Services (TCS) — Database Administrator
 

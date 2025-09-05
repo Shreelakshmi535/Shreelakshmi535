@@ -10,74 +10,41 @@
 Data Analyst with ~3 years across analytics and databases, specializing in SQL, Power BI (DAX, Power Query), Excel, and ETL (Power Query, Pentaho). Build KPI dashboards, automate data prep, and improve data quality to support operations decision making. Translate business questions into metrics, models, and reports; comfortable with AWS/Azure data ecosystems. 
 
 ---
-
-💫 Shreelakshmi Doddaaladahalli Manjunatha
-
-Data Analyst • Data Engineer • Database Administrator
-SQL • Python • Power BI • Pentaho PDI (Kettle) • ETL/ELT • Data Modeling • R (tidyverse)
-
-📍 Chicago, IL, USA
-✉️ Email: add here • 📱 Phone: add here • 🔗 LinkedIn: add link • 💻 Portfolio/Repo: add link
-
-🎯 Target Roles: Data Analyst, Data Engineer, Database Administrator (Entry-level full‑time)
-🌍 Location: Flexible (On‑site / Hybrid / Remote) • 🧾 Work Auth: Authorized; requires H‑1B sponsorship
-
-💼 Work Experience
-🧪 Illinois Tech — Data Analyst (Graduate Assistant)
-
-Chicago, IL, USA • May 2024 – Aug 2024
+## 💼 Work Experience
+## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA • May 2024 – Aug 2024
 
 Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
 Maintained Excel control trackers using PivotTables, XLOOKUP, data validation to improve compliance and workflow visibility.
 Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
 Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
 
-🗄️ Tata Consultancy Services (TCS) — Database Administrator
+##  Tata Consultancy Services (TCS) — Database Administrator | Bengaluru, India | Dec 2021 – Mar 2024
 
-Bengaluru, India • Dec 2021 – Mar 2024
+Monitored database health daily and optimized performance (query tuning, index/statistics refresh, wait analysis) to keep SLAs on track.
+Installed & configured SQL Server (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
+Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
+Operated and tested HA/DR with SQL Server Always On (HADR); documented RPO/RTO and ran periodic failover/DR drills.
+Maintained SOPs/runbooks; executed and verified backups, retention, and point‑in‑time restores.
+Managed capacity & disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
+Enforced access control (RBAC/least privilege) and maintained audit logs.
+Worked tickets via Splunk and ServiceNow; triaged incidents and tracked SLAs to closure.
+Practiced Agile (Kanban/Scrum): daily stand‑ups, change management/CAB reviews, and controlled maintenance windows.
 
-📈 Monitored database health daily and optimized performance (query tuning, index/statistics refresh, wait analysis) to keep SLAs on track.
+## 🤖 Verzeo — ML & Analytics Intern | India | Jul 2020 – Sep 2020
 
-🧩 Installed & configured SQL Server (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
+Built supervised ML pipelines in Python (pandas, scikit‑learn): cleaning & feature engineering (imputation, encoding, scaling), K‑fold CV with Pipelines.
+Trained & compared models (linear/logistic regression, decision trees/random forests, SVM); reported MAE/MSE/R² or accuracy, precision/recall, F1, ROC‑AUC; applied L1/L2 regularization and documented bias–variance trade‑offs.
 
-🛡️ Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
+## 🎓 Academic Projects
+## 🔗 Data Integration & ETL Pipeline — Pentaho PDI (Kettle) | Jan 2025 – Mar 2025
 
-♻️ Operated and tested HA/DR with SQL Server Always On (HADR); documented RPO/RTO and ran periodic failover/DR drills.
+Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, de‑duplication to deliver clean tables for reporting.
+Modeled a sales star schema (📊 FactSales + 🗓️ Date, 📦 Product, 👤 Customer, 🏬 Store/Region, 🛒 Channel); created surrogate keys with Dimension Lookup/Update (⚙️ SCD‑2 where history mattered); cleaned/standardized attributes via Value Mapper & Select Values.
 
-💾 Maintained SOPs/runbooks; executed and verified backups, retention, and point‑in‑time restores.
+## 📺 Streaming Content Analytics (Netflix‑style) — Power BI | Jan 2025 – Mar 2025
 
-📦 Managed capacity & disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
-
-🔐 Enforced access control (RBAC/least privilege) and maintained audit logs.
-
-📟 Worked tickets via Splunk and ServiceNow; triaged incidents and tracked SLAs to closure.
-
-🌀 Practiced Agile (Kanban/Scrum): daily stand‑ups, change management/CAB reviews, and controlled maintenance windows.
-
-🤖 Verzeo — ML & Analytics Intern
-
-India • Jul 2020 – Sep 2020
-
-🧠 Built supervised ML pipelines in Python (pandas, scikit‑learn): cleaning & feature engineering (imputation, encoding, scaling), K‑fold CV with Pipelines.
-
-⚖️ Trained & compared models (linear/logistic regression, decision trees/random forests, SVM); reported MAE/MSE/R² or accuracy, precision/recall, F1, ROC‑AUC; applied L1/L2 regularization and documented bias–variance trade‑offs.
-
-🎓 Academic Projects
-🔗 Data Integration & ETL Pipeline — Pentaho PDI (Kettle)
-
-Jan 2025 – Mar 2025
-
-🔧 Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, de‑duplication to deliver clean tables for reporting.
-
-🧱 Modeled a sales star schema (📊 FactSales + 🗓️ Date, 📦 Product, 👤 Customer, 🏬 Store/Region, 🛒 Channel); created surrogate keys with Dimension Lookup/Update (⚙️ SCD‑2 where history mattered); cleaned/standardized attributes via Value Mapper & Select Values.
-
-📺 Streaming Content Analytics (Netflix‑style) — Power BI
-
-Jan 2025 – Mar 2025
-
-🗂️ Modeled a star schema and built Power BI dashboards with DAX for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
-
-📈 Authored time‑intelligence measures (YoY/QoQ/MTD via DATEADD); built drill‑through (Region → Genre → Title) and applied RLS by Region/Language for stakeholders.
+Modeled a star schema and built Power BI dashboards with DAX for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
+Authored time‑intelligence measures (YoY/QoQ/MTD via DATEADD); built drill‑through (Region → Genre → Title) and applied RLS by Region/Language for stakeholders.
 
 🧰 Technical Toolbox
 

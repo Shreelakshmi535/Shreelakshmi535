@@ -13,12 +13,12 @@ Data Analyst with ~3 years across analytics and databases, specializing in SQL, 
 
 ## 💼 Work Experience
 
-Illinois Tech | Data Analyst (Graduate Assistant) | Chicago, IL, USA                                                                             May 2024 – Aug 2024
+## Illinois Tech | Data Analyst (Graduate Assistant) | Chicago, IL, USA                                                                             May 2024 – Aug 2024
 •	Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
 •	Maintained Excel control trackers using PivotTables, XLOOKUP, and data validation to improve compliance and workflow visibility.
 •	Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
 •	Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
-Tata Consultancy Services Limited | Database Administrator | Bengaluru, India 	                                                Dec 2021 – Mar 2024
+### Tata Consultancy Services Limited | Database Administrator | Bengaluru, India 	                                                Dec 2021 – Mar 2024
 •	Monitored database health daily and optimized performance (query tuning, index/stats refresh, wait analysis) to keep SLAs on track.
 •	Installed and configured SQL Server instances (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
 •	Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
@@ -27,26 +27,25 @@ Tata Consultancy Services Limited | Database Administrator | Bengaluru, India 	 
 •	Managed capacity and disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
 •	Enforced access control (RBAC/least privilege) and maintained audit/audience logs. Monitored and worked tickets via Splunk and ServiceNow, triaging incidents and tracking SLAs to closure.
 •	Worked in Agile (Kanban/Scrum): daily stand-ups, change management/CAB reviews, and controlled maintenance windows.
-Verzeo | ML & Analytics Intern | India                                                                                                                                 Jul 2020 – Sep 2020
+## Verzeo | ML & Analytics Intern | India                                                                                                                                 Jul 2020 – Sep 2020
 •	Built supervised ML pipelines in Python (pandas, scikit-learn): cleaning and feature engineering (imputation, encoding, scaling), K-fold CV with Pipelines.
 •	Trained and compared models (linear/logistic regression, decision trees/random forests, SVM); reported MAE/MSE/R² or accuracy, precision/recall, F1, ROC-AUC; applied L1/L2 regularization and documented bias–variance trade-offs.
 
 ---
 
-ACADEMIC PROJECTS	
-Data Integration & ETL Pipeline – Pentaho PDI	                                                                                                          Jan 2025 – Mar 2025 
+## ACADEMIC PROJECTS	
+## Data Integration & ETL Pipeline – Pentaho PDI	                                                                                                          Jan 2025 – Mar 2025 
 •	Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, and de-duplication to deliver clean tables for reporting. 
 •	Built a sales star schema in Pentaho PDI (Fact Sales + Date, Product, Customer, Store/Region, Channel); created surrogate keys with Dimension Lookup/Update (SCD-2 where history mattered) and cleaned/standardized attributes using Value Mapper and Select Values.
-Streaming Content Analytics (Netflix-style) – Power BI                                                                                                  Jan 2025 – Mar 2025 
+## Streaming Content Analytics (Netflix-style) – Power BI                                                                                                  Jan 2025 – Mar 2025 
 •	Modeled a star schema and built Power BI dashboards with DAX measures and slicers for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
 •	Authored DAX measures (Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share) with time intelligence (YoY/QoQ/MTD via DATEADD); built drill-through from Region → Genre → Title and applied RLS by Region/Language for stakeholders.
 
-LEADERSHIP EXPERIENCE	
+## LEADERSHIP EXPERIENCE	
 •	Lead a team of 4–6 Academic Coaches, set schedules, run stand-ups and 1:1s, deliver training and QA. Drive data-informed student support, maintain progress trackers, flag risks, coordinate with faculty/staff, and personally coach priority cases to improve outcomes.
 •	Organized and led department-wide campus sports events end-to-end, planning, budgeting, logistics, volunteer coordination, and communications, ensuring high participation and on-time.
 
 ## 🏆 Achievements
-
 - 🥇 Designed impactful dashboards and reports during academic projects, earning a Best Project Award for promoting data-driven decision-making.
 - 📈 Achieved **30% improvement in reporting speed** via cloud-based ETL pipeline enhancements.
 - 🎓 Received certifications from **IBM**, **Google**, and **AWS** in analytics and cloud data engineering.

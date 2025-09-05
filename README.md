@@ -11,39 +11,90 @@ Data Analyst with ~3 years across analytics and databases, specializing in SQL, 
 
 ---
 
-## 💼 Work Experience
+💫 Shreelakshmi Doddaaladahalli Manjunatha
 
-## Illinois Tech | Data Analyst (Graduate Assistant) | Chicago, IL, USA                                                                             May 2024 – Aug 2024
-•	Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
-•	Maintained Excel control trackers using PivotTables, XLOOKUP, and data validation to improve compliance and workflow visibility.
-•	Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
-•	Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
-### Tata Consultancy Services Limited | Database Administrator | Bengaluru, India 	                                                Dec 2021 – Mar 2024
-•	Monitored database health daily and optimized performance (query tuning, index/stats refresh, wait analysis) to keep SLAs on track.
-•	Installed and configured SQL Server instances (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
-•	Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
-•	Operated and tested HA/DR with SQL Server Always On (HADR); documented RPO/RTO and ran periodic failover/DR drills.
-•	Maintained SOPs/runbooks; executed and verified backups, retention, and point-in-time restores.
-•	Managed capacity and disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
-•	Enforced access control (RBAC/least privilege) and maintained audit/audience logs. Monitored and worked tickets via Splunk and ServiceNow, triaging incidents and tracking SLAs to closure.
-•	Worked in Agile (Kanban/Scrum): daily stand-ups, change management/CAB reviews, and controlled maintenance windows.
-## Verzeo | ML & Analytics Intern | India                                                                                                                                 Jul 2020 – Sep 2020
-•	Built supervised ML pipelines in Python (pandas, scikit-learn): cleaning and feature engineering (imputation, encoding, scaling), K-fold CV with Pipelines.
-•	Trained and compared models (linear/logistic regression, decision trees/random forests, SVM); reported MAE/MSE/R² or accuracy, precision/recall, F1, ROC-AUC; applied L1/L2 regularization and documented bias–variance trade-offs.
+Data Analyst • Data Engineer • Database Administrator
+SQL • Python • Power BI • Pentaho PDI (Kettle) • ETL/ELT • Data Modeling • R (tidyverse)
 
----
+📍 Chicago, IL, USA
+✉️ Email: add here • 📱 Phone: add here • 🔗 LinkedIn: add link • 💻 Portfolio/Repo: add link
 
-## ACADEMIC PROJECTS	
-## Data Integration & ETL Pipeline – Pentaho PDI	                                                                                                          Jan 2025 – Mar 2025 
-•	Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, and de-duplication to deliver clean tables for reporting. 
-•	Built a sales star schema in Pentaho PDI (Fact Sales + Date, Product, Customer, Store/Region, Channel); created surrogate keys with Dimension Lookup/Update (SCD-2 where history mattered) and cleaned/standardized attributes using Value Mapper and Select Values.
-## Streaming Content Analytics (Netflix-style) – Power BI                                                                                                  Jan 2025 – Mar 2025 
-•	Modeled a star schema and built Power BI dashboards with DAX measures and slicers for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
-•	Authored DAX measures (Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share) with time intelligence (YoY/QoQ/MTD via DATEADD); built drill-through from Region → Genre → Title and applied RLS by Region/Language for stakeholders.
+🎯 Target Roles: Data Analyst, Data Engineer, Database Administrator (Entry-level full‑time)
+🌍 Location: Flexible (On‑site / Hybrid / Remote) • 🧾 Work Auth: Authorized; requires H‑1B sponsorship
 
-## LEADERSHIP EXPERIENCE	
-•	Lead a team of 4–6 Academic Coaches, set schedules, run stand-ups and 1:1s, deliver training and QA. Drive data-informed student support, maintain progress trackers, flag risks, coordinate with faculty/staff, and personally coach priority cases to improve outcomes.
-•	Organized and led department-wide campus sports events end-to-end, planning, budgeting, logistics, volunteer coordination, and communications, ensuring high participation and on-time.
+💼 Work Experience
+🧪 Illinois Tech — Data Analyst (Graduate Assistant)
+
+Chicago, IL, USA • May 2024 – Aug 2024
+
+📊 Built and published interactive Power BI dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
+
+🧮 Maintained Excel control trackers using PivotTables, XLOOKUP, data validation to improve compliance and workflow visibility.
+
+🔄 Created lightweight ETL in Power Query to ingest/clean HR forms, standardize fields, and deduplicate records.
+
+🤝 Coordinated with HR and students to collect/verify onboarding documents; organized records and authored SOPs.
+
+🗄️ Tata Consultancy Services (TCS) — Database Administrator
+
+Bengaluru, India • Dec 2021 – Mar 2024
+
+📈 Monitored database health daily and optimized performance (query tuning, index/statistics refresh, wait analysis) to keep SLAs on track.
+
+🧩 Installed & configured SQL Server (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, and monitoring baselines.
+
+🛡️ Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
+
+♻️ Operated and tested HA/DR with SQL Server Always On (HADR); documented RPO/RTO and ran periodic failover/DR drills.
+
+💾 Maintained SOPs/runbooks; executed and verified backups, retention, and point‑in‑time restores.
+
+📦 Managed capacity & disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
+
+🔐 Enforced access control (RBAC/least privilege) and maintained audit logs.
+
+📟 Worked tickets via Splunk and ServiceNow; triaged incidents and tracked SLAs to closure.
+
+🌀 Practiced Agile (Kanban/Scrum): daily stand‑ups, change management/CAB reviews, and controlled maintenance windows.
+
+🤖 Verzeo — ML & Analytics Intern
+
+India • Jul 2020 – Sep 2020
+
+🧠 Built supervised ML pipelines in Python (pandas, scikit‑learn): cleaning & feature engineering (imputation, encoding, scaling), K‑fold CV with Pipelines.
+
+⚖️ Trained & compared models (linear/logistic regression, decision trees/random forests, SVM); reported MAE/MSE/R² or accuracy, precision/recall, F1, ROC‑AUC; applied L1/L2 regularization and documented bias–variance trade‑offs.
+
+🎓 Academic Projects
+🔗 Data Integration & ETL Pipeline — Pentaho PDI (Kettle)
+
+Jan 2025 – Mar 2025
+
+🔧 Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, de‑duplication to deliver clean tables for reporting.
+
+🧱 Modeled a sales star schema (📊 FactSales + 🗓️ Date, 📦 Product, 👤 Customer, 🏬 Store/Region, 🛒 Channel); created surrogate keys with Dimension Lookup/Update (⚙️ SCD‑2 where history mattered); cleaned/standardized attributes via Value Mapper & Select Values.
+
+📺 Streaming Content Analytics (Netflix‑style) — Power BI
+
+Jan 2025 – Mar 2025
+
+🗂️ Modeled a star schema and built Power BI dashboards with DAX for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
+
+📈 Authored time‑intelligence measures (YoY/QoQ/MTD via DATEADD); built drill‑through (Region → Genre → Title) and applied RLS by Region/Language for stakeholders.
+
+🧰 Technical Toolbox
+
+Languages: Python, SQL, R
+
+Data / ML: pandas, NumPy, scikit‑learn, imbalanced‑learn (SMOTE), tidymodels/caret, ggplot2
+
+BI & Viz: Power BI (DAX, Power Query), Excel (PivotTables, XLOOKUP)
+
+ETL / DWH: Pentaho PDI (Kettle), star schema, SCD‑2, dimension/fact modeling
+
+Databases: SQL Server (install/config, perf tuning, Always On HADR, backups/restores)
+
+Ops & Tools: Git, ServiceNow, Splunk, Agile (Scrum/Kanban)
 
 ## 🏆 Achievements
 - 🥇 Designed impactful dashboards and reports during academic projects, earning a Best Project Award for promoting data-driven decision-making.

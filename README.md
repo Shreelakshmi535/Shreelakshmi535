@@ -1,17 +1,25 @@
 
-# 👋 Hi, I'm Shreelakshmi D Manjunatha
+# 👋 Hi, I'm Shreelakshmi Doddaaladahalli Manjunatha
 
-**MS Information Technology and Management ’25 | Illinois Tech | Ex-TCS | Aspiring Data Engineer focused on generating insights and reports**
+**MS Information Technology and Management ’25 | Illinois Tech | Ex-TCS | **
 
 ---
 
 ## 🧠 About Me
 
-Data Analyst with ~3 years across analytics and databases, specializing in SQL, Power BI (DAX, Power Query), Excel, and ETL (Power Query, Pentaho). Build KPI dashboards, automate data prep, and improve data quality to support operations decision making. Translate business questions into metrics, models, and reports; comfortable with AWS/Azure data ecosystems. 
+OpenShift SRE / DevOps Engineer | Kubernetes | Linux | AWS
+
+I’m Shreelakshmi, an OpenShift SRE / DevOps Engineer with 3+ years of experience supporting production OpenShift/Kubernetes and Linux environments. I graduated with a Master’s in Information Technology & Management from Illinois Institute of Technology.
+
+I worked on day-to-day cluster operations, monitoring, incident response, and automation—handling deployments, scaling, upgrades, and platform reliability. I investigated and resolved issues using Splunk and managed incidents and changes through ServiceNow. I also automated routine operational tasks with Ansible and shell scripting and collaborated closely with DevOps teams to support CI/CD stability and releases.
+
+Tech Stack: OpenShift | Kubernetes | Linux | Docker | Ansible | AWS | CI/CD | Splunk | ServiceNow
+
+🔍 Actively seeking OpenShift SRE / DevOps / Platform Engineering opportunities. 
 
 ---
 ## 💼 Work Experience
-## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA | May 2024 – Aug 2024
+## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA | May 2024 – Dec 2025
 
 - Built and published interactive **Power BI** dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
 - Maintained **Excel** control trackers using **PivotTables**, **XLOOKUP**, and **data validation** to improve compliance and workflow visibility.
@@ -19,17 +27,17 @@ Data Analyst with ~3 years across analytics and databases, specializing in SQL, 
 - Coordinated with **HR** and students to collect/verify onboarding documents; organized records and authored **SOPs**.
 
 
-##  Tata Consultancy Services (TCS) — Database Administrator | Bengaluru, India | Dec 2021 – Mar 2024
+##  Tata Consultancy Services (TCS) — Openshift(Associate System Admin) | Bengaluru, India | Dec 2021 – Jan 2024
 
-- Monitored database health and optimized performance (query tuning, index/statistics refresh, wait analysis) to keep SLAs on track.
-- Installed & configured **SQL Server** (standalone/clustered): service accounts, collation, TempDB layout, max memory, backup/maintenance jobs, monitoring baselines.
-- Applied scheduled patching/maintenance (SQL Server CUs/OS updates) with pre/post checks and documented rollback plans.
-- Operated and tested **HA/DR** with **SQL Server Always On (HADR)**; documented **RPO/RTO** and ran periodic failover/DR drills.
-- Maintained SOPs/runbooks; executed and verified backups, retention, and point-in-time restores.
-- Managed capacity and disk space (data/log/tempdb), set thresholds/alerts, and forecasted growth.
-- Enforced access control (**RBAC/least privilege**) and maintained audit logs.
-- Worked tickets via **Splunk** and **ServiceNow**; triaged incidents and tracked SLAs to closure.
-- Practiced **Agile (Kanban/Scrum)**: daily stand-ups, change management/CAB reviews, and controlled maintenance windows.
+•	Supported OpenShift and Linux (RHEL, CentOS, Debian) environments, ensuring cluster stability, uptime, and SLA compliance.
+•	Handled user access, namespaces, pods, and resource quotas; executed pod restarts, deployments, and scaling operations through CLI and web console.
+•	Monitored cluster health, node utilization, and workloads using Splunk; identified anomalies and resolved first-level alerts.
+•	Assisted in OpenShift version upgrades, OS patching, and node maintenance, performing pre/post-checks and rollback verification.
+•	Managed persistent volumes, secrets, and config maps, ensuring smooth data mounts and application availability across environments.
+•	Automated routine checks, patching, and log cleanup using Ansible playbooks and shell scripts, improving operational efficiency.
+•	Responded to L1–L2 incidents such as pod crashes, image pull errors, and service unavailability; logged and tracked through ServiceNow until closure.
+•	Performed backup and restore tests for application data and cluster configurations; supported DR validation exercises with senior SREs.
+•	Collaborated with DevOps teams on CI/CD troubleshooting, pipeline health, and build-deploy verification in shared OpenShift clusters.
 
 
 ## 🤖 Verzeo — ML & Analytics Intern | India | Jul 2020 – Sep 2020
@@ -38,10 +46,9 @@ Data Analyst with ~3 years across analytics and databases, specializing in SQL, 
 - Trained and compared models (linear/logistic regression, decision trees/random forests, SVM); reported **MAE/MSE/R²** or **accuracy, precision/recall, F1, ROC-AUC**; applied **L1/L2 regularization** and documented bias–variance trade-offs.
 
 ## 🎓 Academic Projects
-## 🔗 Data Integration & ETL Pipeline — Pentaho PDI (Kettle) | Jan 2025 – Mar 2025
-
-- Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, de‑duplication to deliver clean tables for reporting.
-- Modeled a sales star schema (📊 FactSales + 🗓️ Date, 📦 Product, 👤 Customer, 🏬 Store/Region, 🛒 Channel); created surrogate keys with Dimension Lookup/Update (⚙️ SCD‑2 where history mattered); cleaned/standardized attributes via Value Mapper & Select Values.
+## Data Integration & ETL Pipeline – Pentaho PDI | Jan 2025 – Mar 2025 
+•	Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, and de-duplication to deliver clean tables for reporting. 
+•	Loaded transformed data into a centralized PostgreSQL data warehouse to support real-time business intelligence and analytics to make data driven decision making.
 
 ## 📺 Streaming Content Analytics (Netflix‑style) — Power BI | Jan 2025 – Mar 2025
 

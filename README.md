@@ -159,7 +159,7 @@ A Kubernetes-native CI/CD pipeline using Tekton — auto-triggered on every GitH
 
 ---
 
-### 🏢 Associate System Engineer (DBA) — Tata Consultancy Services
+### 🏢 Associate System Engineer — Tata Consultancy Services
 **Dec 2021 – Jan 2024 &nbsp;|&nbsp; Bengaluru, India**
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)

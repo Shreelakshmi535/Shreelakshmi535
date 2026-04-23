@@ -8,7 +8,7 @@
 
 ## 🙋‍♀️ About Me
 
-I am an engineer with a background spanning infrastructure operations, cloud data engineering, and database administration — actively building toward an **OpenShift SRE / Platform Engineering** role.
+I am an engineer with a background spanning cloud data engineering, and database administration — actively building toward an **OpenShift SRE / Platform Engineering** role.
 
 At TCS I supported production database environments, monitored systems with Splunk, automated workflows with Bash, and collaborated with DevOps teams on containerised deployments. At InsOps I build and maintain Azure cloud data pipelines for enterprise insurance migration. In parallel I am building production-grade SRE projects using Red Hat OpenShift, Tekton, Prometheus, Grafana, and HashiCorp Vault — the exact tooling used by enterprise engineering teams.
 

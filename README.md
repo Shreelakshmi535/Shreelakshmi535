@@ -1,114 +1,144 @@
+# Shreelakshmi Doddaaladahalli Manjunatha
 
-# 👋 Hi, I'm Shreelakshmi Doddaaladahalli Manjunatha
+**MS Information Technology & Management — Illinois Institute of Technology '25**
 
-**MS Information Technology and Management ’25 | Illinois Tech | Ex-TCS | **
-
----
-
-## 🧠 About Me
-
-OpenShift SRE / DevOps Engineer | Kubernetes | Linux | AWS
-
-I’m Shreelakshmi, an OpenShift SRE / DevOps Engineer with 3+ years of experience supporting production OpenShift/Kubernetes and Linux environments. I graduated with a Master’s in Information Technology & Management from Illinois Institute of Technology.
-
-I worked on day-to-day cluster operations, monitoring, incident response, and automation—handling deployments, scaling, upgrades, and platform reliability. I investigated and resolved issues using Splunk and managed incidents and changes through ServiceNow. I also automated routine operational tasks with Ansible and shell scripting and collaborated closely with DevOps teams to support CI/CD stability and releases.
-
-Tech Stack: OpenShift | Kubernetes | Linux | Docker | Ansible | AWS | CI/CD | Splunk | ServiceNow
-
-🔍 Actively seeking OpenShift SRE / DevOps / Platform Engineering opportunities. 
-
----
-## 💼 Work Experience
-## Illinois Tech — Data Analyst (Graduate Assistant) | Chicago, IL, USA | May 2024 – Dec 2025
-
-- Built and published interactive **Power BI** dashboards (hiring funnel, onboarding status, SLA tracking) with weekly/monthly refreshes.
-- Maintained **Excel** control trackers using **PivotTables**, **XLOOKUP**, and **data validation** to improve compliance and workflow visibility.
-- Created lightweight **ETL** in **Power Query** to ingest/clean HR forms, standardize fields, and deduplicate records.
-- Coordinated with **HR** and students to collect/verify onboarding documents; organized records and authored **SOPs**.
-
-
-##  Tata Consultancy Services (TCS) — Openshift(Associate System Admin) | Bengaluru, India | Dec 2021 – Jan 2024
-
-•	Supported OpenShift and Linux (RHEL, CentOS, Debian) environments, ensuring cluster stability, uptime, and SLA compliance.
-•	Handled user access, namespaces, pods, and resource quotas; executed pod restarts, deployments, and scaling operations through CLI and web console.
-•	Monitored cluster health, node utilization, and workloads using Splunk; identified anomalies and resolved first-level alerts.
-•	Assisted in OpenShift version upgrades, OS patching, and node maintenance, performing pre/post-checks and rollback verification.
-•	Managed persistent volumes, secrets, and config maps, ensuring smooth data mounts and application availability across environments.
-•	Automated routine checks, patching, and log cleanup using Ansible playbooks and shell scripts, improving operational efficiency.
-•	Responded to L1–L2 incidents such as pod crashes, image pull errors, and service unavailability; logged and tracked through ServiceNow until closure.
-•	Performed backup and restore tests for application data and cluster configurations; supported DR validation exercises with senior SREs.
-•	Collaborated with DevOps teams on CI/CD troubleshooting, pipeline health, and build-deploy verification in shared OpenShift clusters.
-
-
-## 🤖 Verzeo — ML & Analytics Intern | India | Jul 2020 – Sep 2020
-
-- Built supervised **ML pipelines** in **Python** (pandas, scikit-learn): cleaning and feature engineering (imputation, encoding, scaling) with **K-fold cross-validation** using Pipelines.
-- Trained and compared models (linear/logistic regression, decision trees/random forests, SVM); reported **MAE/MSE/R²** or **accuracy, precision/recall, F1, ROC-AUC**; applied **L1/L2 regularization** and documented bias–variance trade-offs.
-
-## 🎓 Academic Projects
-## Data Integration & ETL Pipeline – Pentaho PDI | Jan 2025 – Mar 2025 
-•	Orchestrated ETL to consolidate sales sources (orders, customers, product, store/region) using PDI jobs/transforms; applied validation rules, type enforcement, and de-duplication to deliver clean tables for reporting. 
-•	Loaded transformed data into a centralized PostgreSQL data warehouse to support real-time business intelligence and analytics to make data driven decision making.
-
-## 📺 Streaming Content Analytics (Netflix‑style) — Power BI | Jan 2025 – Mar 2025
-
-- Modeled a star schema and built Power BI dashboards with DAX for Total Views, Hours Watched, Avg Completion %, Avg Rating, Genre Share; used Power Query for transforms.
-- Authored time‑intelligence measures (YoY/QoQ/MTD via DATEADD); built drill‑through (Region → Genre → Title) and applied RLS by Region/Language for stakeholders.
-
-
-## 🏆 Achievements
-- 🥇 Designed impactful dashboards and reports during academic projects, earning a Best Project Award for promoting data-driven decision-making.
-- 📈 Achieved **30% improvement in reporting speed** via cloud-based ETL pipeline enhancements.
-- 🎓 Received certifications from **IBM**, **Google**, and **AWS** in analytics and cloud data engineering.
+📍 Atlanta, GA &nbsp;|&nbsp; 📧 shreelakshmidm18@gmail.com &nbsp;|&nbsp; 💼 [linkedin.com/in/shreelakshmidm](https://www.linkedin.com/in/shreelakshmidm)
 
 ---
 
-### 🧰 Tech Toolbox
+## About Me
 
-#### 📊 Data Analysis & Visualization  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=mysql&logoColor=white&style=for-the-badge)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)   ![Excel](https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)  
+I am an engineer with a background spanning infrastructure operations, cloud data engineering, and database administration — actively building toward an OpenShift SRE / Platform Engineering role.
 
----
+At TCS I supported production database environments, monitored systems with Splunk, automated workflows with Bash, and collaborated with DevOps teams on containerised deployments. At InsOps I build and maintain Azure cloud data pipelines for enterprise insurance migration. In parallel I am building production-grade SRE projects using Red Hat OpenShift, Tekton, Prometheus, Grafana, and HashiCorp Vault — the exact tooling used by enterprise engineering teams.
 
-#### 🗄️ Database Management  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+I am open to roles in **OpenShift SRE**, **Platform Engineering**, **DevOps**, and **Data Engineering**.
 
 ---
 
-#### 📈 Statistics & Modeling  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)    ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)  ![SPSS](https://img.shields.io/badge/-IBM%20SPSS-052FAD?logo=ibm&logoColor=white&style=for-the-badge)
+## Technical Skills
+
+| Area | Tools & Technologies |
+|---|---|
+| **Container & Platform** | Red Hat OpenShift (OCP), Kubernetes, Docker, RBAC, SCCs, PersistentVolumes, StatefulSets |
+| **CI/CD** | Tekton Pipelines & Triggers, Harness (concepts), Jenkins, GitLab CI/CD, GitHub Actions |
+| **Observability** | Prometheus, PromQL, Grafana, Alertmanager, Splunk, ELK Stack, Datadog, AppDynamics |
+| **OpenShift AI** | RHOAI, KServe InferenceService, ModelMesh, Data Science Pipelines, Jupyter on OCP |
+| **Cloud & IaC** | Azure (ADF, SQL, Data Lake), AWS (EC2, S3, VPC, IAM, EKS), Terraform, Ansible |
+| **Security & Secrets** | HashiCorp Vault (K8s auth + Agent sidecar), CyberArk (concepts), RBAC, OAuth2, AWS KMS |
+| **Data Engineering** | Azure Data Factory, PostgreSQL, MSSQL, MySQL, ETL Pipelines, Pentaho PDI, Power Query |
+| **Analytics & BI** | Power BI, Tableau, DAX, Star Schema, Data Warehousing |
+| **Languages** | Python (pandas, scikit-learn, K8s client), SQL, Bash |
+| **SRE** | SLI/SLO/Error Budgets, Incident Response, Postmortem/RCA, Toil Reduction, CAB Governance |
 
 ---
 
-#### ⚙️ Data Engineering & ETL  
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white&style=for-the-badge)  ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)  ![S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazon-aws&logoColor=white&style=for-the-badge)  ![Glue](https://img.shields.io/badge/-AWS%20Glue-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)  ![Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white&style=for-the-badge)  ![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?logo=snowflake&logoColor=white&style=for-the-badge)  ![Databricks](https://img.shields.io/badge/-Databricks-E21A1A?logo=databricks&logoColor=white&style=for-the-badge)  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge)
+## SRE Projects
+
+### Project 1 — OpenShift SRE Operations Platform
+`OpenShift` `Prometheus` `Grafana` `Alertmanager` `HashiCorp Vault` `RHOAI` `KServe` `Python` `Docker`
+
+**Status: Completed 2025 &nbsp;|&nbsp; Cost: $0 — 100% open source**
+
+A production-grade SRE platform built on Red Hat OpenShift demonstrating the full reliability engineering lifecycle — deployment, monitoring, alerting, secret management, AI model serving, and incident response.
+
+**What I built:**
+- Deployed a Python Flask microservice on Red Hat OpenShift with RBAC, custom SCCs, resource limits, liveness/readiness probes, and a TLS-terminated Route
+- Configured HashiCorp Vault Agent sidecar using Kubernetes auth method for secret injection — zero hardcoded credentials anywhere
+- Instrumented the app with Prometheus metrics (Counter, Histogram, Gauge) and deployed Prometheus with ServiceMonitor CRD for automatic scraping
+- Built a 6-panel Grafana dashboard — request rate, error rate, p50/p95/p99 latency, pod restarts, CPU, memory
+- Defined 3 SLOs (availability 99.9%, p99 latency < 2s, error rate < 0.1%) with PromQL and configured Alertmanager rules
+- Deployed a scikit-learn model as a KServe InferenceService on Red Hat OpenShift AI (RHOAI)
+- Simulated an OOMKill incident, triaged via Grafana, resolved, and wrote a complete postmortem with RCA
+
+**Repository structure:**
+```
+app/            ← Flask app with Prometheus metrics + non-root Dockerfile
+openshift/      ← Deployment, Service, Route YAML manifests
+monitoring/     ← Prometheus config, Grafana dashboard JSON, alert rules
+postmortem/     ← Full incident postmortem document
+```
 
 ---
 
-#### 🧠 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)  ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+### Project 2 — Tekton CI/CD Pipeline on OpenShift
+`Tekton Pipelines` `Tekton Triggers` `Trivy` `Buildah` `Quay.io` `OpenShift` `GitHub webhooks`
+
+**Status: In Progress — 2025 &nbsp;|&nbsp; Cost: $0 — 100% open source**
+
+A Kubernetes-native CI/CD pipeline built with Tekton — demonstrating automated build, security scanning, and deployment triggered automatically on every GitHub push.
+
+**What I am building:**
+- 4-stage Tekton Pipeline: git-clone → Trivy security scan (blocks on critical CVEs) → Buildah build/push → OpenShift rolling deploy
+- Tekton Triggers with EventListener, TriggerBinding, TriggerTemplate — git push fires pipeline automatically
+- Security gate: pipeline fails if any CRITICAL CVE found in the container image
+- Final Task deploys KServe InferenceService on RHOAI — complete MLOps flow from commit to production model serving
 
 ---
 
-#### 💡 Soft Skills  
-**Collaboration**, **Decision Making**, **Analytical Thinking**, **Communication**, **Problem Solving**
+## Data Engineering & Analytics Projects
 
+### Data Integration & ETL Pipeline — Pentaho PDI
+`Pentaho PDI` `PostgreSQL` `ETL` `SQL` `Data Warehousing`
+
+- Orchestrated ETL consolidating sales data from 5 sources, processing 100K+ records with 95% data quality score
+- Applied validation rules, type enforcement, and deduplication delivering clean tables into a centralised PostgreSQL data warehouse
+- Implemented data validation rules catching 500+ quality issues before downstream processing
 
 ---
 
-## 📚 Academic Projects
+### Business Intelligence & Streaming Analytics — Power BI
+`Power BI` `DAX` `Power Query` `Star Schema` `Time Intelligence`
 
-- 🔍 **Fraud Detection using Machine Learning**  
-  Designed a classification model using **Logistic Regression, KNN, and Random Forest** to detect and flag potentially fraudulent transactions for review.
+- Built dashboards with DAX measures for Total Views, Hours Watched, Avg Completion %, Avg Rating, and Genre Share
+- Authored time-intelligence measures (YoY/QoQ/MTD via DATEADD) with drill-through from Region → Genre → Title
+- Applied Row Level Security (RLS) by Region and Language for stakeholder-specific data access
 
-- 🔄 **ETL Pipeline with Pentaho & PostgreSQL**  
-  Developed a full ETL pipeline to extract data from flat files and databases, cleanse, transform, and load into a **PostgreSQL** data warehouse for **business intelligence** and analysis.
+---
 
-- 📈 **E-commerce Analytics Dashboard**  
-  Performed ETL using Python for dataset preparation. Created **interactive Power BI dashboards** to forecast and visualize KPIs by **genre, release year, content type,** and **regional availability**.
+## Work Experience
 
-## 📫 Connect with Me
+### Data Engineer Intern — InsOps Inc
+**Apr 2025 – Present &nbsp;|&nbsp; United States**
+`Azure ADF` `Azure SQL` `Data Lake` `Python` `SQL` `Guidewire`
 
-- 📧 **Email**: [shreelakshmidm18@gmail.com](mailto:shreelakshmidm18@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/shreelakshmidm](https://www.linkedin.com/in/shreelakshmidm)
+- Build and maintain Azure cloud data pipelines (ADF, Azure SQL, Data Lake Storage) for insurance data migration, achieving 99%+ data accuracy across structured and unstructured sources
+- Support on-prem to Azure cloud migration of Guidewire systems (ClaimCenter, PolicyCenter, BillingCenter), contributing to infrastructure reliability and deployment validation
+- Collaborate on CI/CD-adjacent workflows: pipeline configuration, environment validation, and DevOps backlog items within an Agile team
+- Write Python and SQL transformation scripts to validate and reconcile insurance data across cloud and on-prem systems
 
+---
+
+### Associate System Engineer — Database Administrator — Tata Consultancy Services
+**Dec 2021 – Jan 2024 &nbsp;|&nbsp; Bengaluru, India**
+`MSSQL` `MySQL` `Splunk` `Bash` `Kubernetes (exposure)` `ServiceNow`
+
+- Administered MSSQL and MySQL production environments ensuring high availability, SLA compliance, performance tuning, and backup/restore integrity for enterprise clients
+- Monitored database health, resource utilisation, and service account activity daily using Splunk; performed RCA for failures, resource contention, and service disruptions
+- Managed RBAC-based access controls enforcing least-privilege; collaborated with DevOps teams on containerised deployments with Kubernetes namespace and pod management exposure
+- Automated health checks, log rotation, and patching via Bash scripting; executed OS patching with CAB-aligned rollback planning and post-implementation verification
+
+---
+
+### Machine Learning Intern — Verzeo
+**Jul 2020 – Sep 2020 &nbsp;|&nbsp; India**
+`Python` `pandas` `scikit-learn`
+
+- Built supervised ML pipelines — data cleaning, feature engineering, K-fold CV, model evaluation (F1, ROC-AUC, MAE/MSE) with stakeholder visualisations
+
+---
+
+## Education
+
+| Degree | Institution | GPA | Year |
+|---|---|---|---|
+| MS, Information Technology & Management | Illinois Institute of Technology, Chicago | 3.7 / 4.0 | Jan 2024 – Dec 2025 |
+| BE, Computer Science | M S Ramaiah Institute of Technology | 3.5 / 4.0 | Aug 2018 – Sep 2021 |
+
+---
+
+## Connect
+
+- 📧 [shreelakshmidm18@gmail.com](mailto:shreelakshmidm18@gmail.com)
+- 💼 [linkedin.com/in/shreelakshmidm](https://www.linkedin.com/in/shreelakshmidm)
+- 🐙 [github.com/Shreelakshmi535](https://github.com/Shreelakshmi535)

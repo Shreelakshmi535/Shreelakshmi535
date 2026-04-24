@@ -72,7 +72,7 @@ At TCS I supported production database environments, monitored systems with Splu
 ## 🚀 SRE Projects
 
 ### 🔴 Project 1 — OpenShift SRE Operations Platform
-> **Status: ✅ Completed 2025 &nbsp;|&nbsp; Cost: $0 — 100% open source**
+> **Status: ✅ Completed 2026 &nbsp;|&nbsp; Cost: $0 — 100% open source**
 
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -102,7 +102,7 @@ postmortem/     ← Full incident postmortem document
 ---
 
 ### 🟡 Project 2 — Tekton CI/CD Pipeline on OpenShift
-> **Status: 🔄 In Progress — 2025 &nbsp;|&nbsp; Cost: $0 — 100% open source**
+> **Status: 🔄 In Progress — 2026 &nbsp;|&nbsp; Cost: $0 — 100% open source**
 
 ![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
